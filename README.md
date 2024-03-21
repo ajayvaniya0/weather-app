@@ -19,3 +19,8 @@ With the help of API
 ## Installation
 1. Clone the repository:```git clone https://github.com/yourusername/weather-app.git``` 
 2. Open index.html in your preferred web browser.
+
+## Usage
+Upon opening the app, the current weather for the user's location will be displayed.
+
+Users can search for weather information for specific locations using the search functionality.
